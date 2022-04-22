@@ -22,5 +22,6 @@ Several consumer devices now involve temperature monitoring. For example, most o
 
 |Build|Cppcheck|Codacy|
 |:--:|:--:|:--:|
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/cd809a9fa57b4f5aa759c7e48b2ea325)](https://app.codacy.com/gh/Lokesh12121/M2_Room_Temperatue_Monitering_SYS?utm_source=github.com&utm_medium=referral&utm_content=Lokesh12121/M2_Room_Temperatue_Monitering_SYS&utm_campaign=Badge_Grade_Settings)
 |[![Compile-Linux](https://github.com/Lokesh12121/M2_Room_Temperatue_Monitering_SYS/actions/workflows/Compile_Linux.yml/badge.svg)](https://github.com/Lokesh12121/M2_Room_Temperatue_Monitering_SYS/actions/workflows/Compile_Linux.yml)|[![Cppcheck](https://github.com/Lokesh12121/M2_Room_Temperatue_Monitering_SYS/actions/workflows/cpp_check.yml/badge.svg)](https://github.com/Lokesh12121/M2_Room_Temperatue_Monitering_SYS/actions/workflows/cpp_check.yml)|  |
 
