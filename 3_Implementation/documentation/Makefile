@@ -1,4 +1,4 @@
-DOXYFILE_NAME = Heatcontrolsystem
+DOXYFILE_NAME = Doxy_RoomTempMoniteringSystem
 all:
 	doxygen ./$(DOXYFILE_NAME)
 
