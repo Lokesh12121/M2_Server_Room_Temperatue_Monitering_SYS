@@ -1,20 +1,14 @@
 # Architecture
 
-  ## 1. Block Diagram
-  
-   It gives information about the project, it tells about how the system works with minimal features.
-  
-   ![Block Diagram](https://github.com/Lokesh12121/M2_Room_Temperatue_Monitering_SYS/blob/main/2_Architecture/block_diagram.PNG)
-
   ## 2. User behavior diagram - High Level
   
-  It decribes how the user will interface with the system, how the model works with certain input requested by system.
+  It decribes how the user will interface with the system, how the model works.
   
-   ![Behaviour Flow](https://github.com/Lokesh12121/M1_Inventary_Managment_System/blob/main/2_Architecture/behavior%20Diagrams/User_behaviour_flow.PNG)
+   ![Behaviour Flow](https://github.com/Lokesh12121/M2_Room_Temperatue_Monitering_SYS/blob/main/2_Architecture/block_diagram.PNG)
    
    ## 3. Structure Diagram - Low Level
   
-   ![Structure Diagram](https://github.com/Lokesh12121/M1_Inventary_Managment_System/blob/main/2_Architecture/structure%20Diagrams/Structure1.drawio.PNG)
+   ![Structure Diagram](https://github.com/Lokesh12121/M2_Room_Temperatue_Monitering_SYS/blob/main/2_Architecture/Circuit1.PNG)
    
 ## Tools 
 1.  [Draw.io](https://app.diagrams.net/)
