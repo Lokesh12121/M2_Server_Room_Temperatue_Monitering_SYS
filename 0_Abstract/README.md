@@ -25,7 +25,7 @@ In this project, we’ve built a temperature sensor using Atmega328p and the var
 1.  The LM35 sensor used in this circuit can sense a temperature ranging from -55˚ to 150˚C. Since it is not present SimulIDE, we use potentiometer it acts as an temperature sensor which is manually operated. 
 2.  The source code this project is available [here](https://github.com/Lokesh12121/M1_Inventary_Managment_System/tree/main/3_Implementation) , after running the code it generates a .hex and .elf file.
 3.  Build the circuit according to the following diagram
-![Circuit diagram](https://github.com/Lokesh12121/M1_Inventary_Managment_System/blob/main/3_Implementation/simulation/Circuit1.PNG)
+![Circuit diagram](https://github.com/Lokesh12121/M2_Room_Temperatue_Monitering_SYS/blob/main/0_Abstract/Circuit1.PNG)
 4.  In simulIDE click on mcu and click on load the firmware, and select .hex file
 5.  As u know the circuit only works when it is in closed space, so press all the buttons ON.
 6.  And finally the circuit works, vary the potentiometer to vary the temperature
