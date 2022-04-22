@@ -15,7 +15,7 @@ Several consumer devices now involve temperature monitoring. For example, most o
 ## In Action
 |ON|OFF|
 |:--:|:--:|
-|![ON](https://github.com/Lokesh12121/M2_Room_Temperatue_Monitering_SYS/blob/main/3_Implementation/simulation/circuit-main.gif)|![OFF](https://github.com/Lokesh12121/M2_Room_Temperatue_Monitering_SYS/blob/main/3_Implementation/simulation/OFF_stage.png)|
+|![ON](https://github.com/Lokesh12121/M2_Room_Temperatue_Monitering_SYS/blob/main/3_Implementation/simulation/circuit-main.gif)|![OFF](https://github.com/Lokesh12121/M2_Room_Temperatue_Monitering_SYS/blob/main/3_Implementation/simulation/OFF_circuit.gif)|
 
 ## CI and Code Quality
 
