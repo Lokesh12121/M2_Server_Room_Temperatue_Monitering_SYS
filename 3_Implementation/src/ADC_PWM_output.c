@@ -1,5 +1,5 @@
 /**
- * @file ADC_PWMoutput.c
+ * @file ADC_PWM_Output.c
  * @author Lokesh R
  * @brief A file where pulse width modulation is implemented
  * @version 0.1
@@ -93,5 +93,4 @@ const char* outputbyPWM(uint16_t ADC_val){
         return temperature;
         
     }
-
 }
