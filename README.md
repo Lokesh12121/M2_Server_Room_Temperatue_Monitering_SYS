@@ -1,5 +1,5 @@
 # Server Room Temperature Monitering System
-
+In Monitoring Temperature and humidity for Server Room is a system based an IoT, which provides information while regulating temperature and humidity inside the server room. There are various types of sensors in the prototype, using all parameters of temperature and humidity that can be measured. This system can be used to monitor the temperature or humidity of a particular room or place. 
 Several consumer devices now involve temperature monitoring. For example, most of the air conditioners on the market feature climate control, where the AC continuously monitors the ambient temperature of a room and accordingly regulates the air conditioning. Even some digital clocks now have temperature monitors embedded in them. Many other consumer appliances also offer temperature monitoring. 
 
 ## Folder Structure
