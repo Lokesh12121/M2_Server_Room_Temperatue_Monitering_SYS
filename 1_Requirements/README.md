@@ -21,15 +21,9 @@ It can be used for any server rooms, datacentor platorm either it can be pharma 
 With the use of simple interface with the screen, the person can visualize data.
 
 ### 2. SWOT Analysis
-![SWOT Analysis](https://github.com/Lokesh12121/M1_Inventary_Managment_System/blob/main/1_Requirements/swot_analysis.PNG)
+![SWOT Analysis](https://github.com/Lokesh12121/M2_Room_Temperatue_Monitering_SYS/blob/main/1_Requirements/swot.PNG)
   
-### 3. Implementation Block Diagram
-1.  Product is added at first
-2.  Now product can be deleted or add new product
-3.  Modify or delete product
-4.  We can search for product
-5.  Display all the available product
- 
+### 3. Implementation Block Diagram 
 ![Design Flow](https://github.com/Lokesh12121/M1_Inventary_Managment_System/blob/main/1_Requirements/designflow.PNG)
 
 ## Tools : MS Word, MS Excel and Snipping tool
