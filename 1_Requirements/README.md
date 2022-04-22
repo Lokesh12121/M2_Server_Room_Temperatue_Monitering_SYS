@@ -24,6 +24,6 @@ With the use of simple interface with the screen, the person can visualize data.
 ![SWOT Analysis](https://github.com/Lokesh12121/M2_Room_Temperatue_Monitering_SYS/blob/main/1_Requirements/swot.PNG)
   
 ### 3. Implementation Block Diagram 
-![Design Flow](https://github.com/Lokesh12121/M1_Inventary_Managment_System/blob/main/1_Requirements/designflow.PNG)
+![Design Flow](https://github.com/Lokesh12121/M2_Room_Temperatue_Monitering_SYS/blob/main/1_Requirements/block_diagram.PNG)
 
 ## Tools : MS Word, MS Excel and Snipping tool
