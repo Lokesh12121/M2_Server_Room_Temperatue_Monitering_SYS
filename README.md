@@ -1,5 +1,4 @@
 # Server Room Temperature Monitering System
-## Abstract
 
 Several consumer devices now involve temperature monitoring. For example, most of the air conditioners on the market feature climate control, where the AC continuously monitors the ambient temperature of a room and accordingly regulates the air conditioning. Even some digital clocks now have temperature monitors embedded in them. Many other consumer appliances also offer temperature monitoring. 
 
