@@ -8,7 +8,7 @@
    
    ## 3. Structure Diagram - Low Level
   
-   ![Structure Diagram](https://github.com/Lokesh12121/M2_Room_Temperatue_Monitering_SYS/blob/main/2_Architecture/Circuit1.PNG)
+   ![Structure Diagram](https://github.com/Lokesh12121/M2_Server_Room_Temperatue_Monitering_SYS/blob/main/2_Design/Circuit1.png)
    
 ## Tools 
 1.  [Draw.io](https://app.diagrams.net/)
