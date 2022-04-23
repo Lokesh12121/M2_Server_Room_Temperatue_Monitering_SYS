@@ -12,10 +12,10 @@
 | H_01  | If server room closed   | Push button=1  | Push button=1  | Pass  |
 | H_02  | If server room opened  | Push button=0  | Push button=0  | Pass  |
 | H_03  | Temperature Request  | Temp=0  | Heater=Off  | Pass  |
-| H_04  | Temperature Request  | Temp=20  | Heater=20 degree generation | Pass  |
-| H_05  | Temperature Request  | Temp=25  | Heater=25 degree generation  | Pass  |
-| H_06  | Temperature Request  | Temp=29  | Heater=29 degree generation  | Pass  |
-| H_07  | Temperature Request  | Temp=33  | Heater=33 degree generation  | Pass  |
+| H_04  | Temperature Request  | Temp=20  | Room Temperature=20 degree generation | Pass  |
+| H_05  | Temperature Request  | Temp=25  | Room Temperature=25 degree generation  | Pass  |
+| H_06  | Temperature Request  | Temp=29  | Room Temperature=29 degree generation  | Pass  |
+| H_07  | Temperature Request  | Temp=33  | Room Temperature=33 degree generation  | Pass  |
 | H_08  | LED ON | Buttons=1 && Heater=1 | LED=1  | Pass  |
 | H_08  | LED OFF | Buttons=0 && Heater=0  | LED=0  | Pass  |
 | H_08  | Display | Temperature :- 20 deg Cel  | Temperature :- 20 deg Cel  | Pass  |
