@@ -1,6 +1,6 @@
 # Requirements
 
-## 1. What, Why, When, Who, How
+## 1. What, Why, When, Who, How ( 4W1H )
 ### What
 In Monitoring Temperature and humidity for Server Room is a system, which provides information while regulating temperature and humidity inside the server room. There are various types of sensors in the prototype, using all parameters of temperature and humidity that can be measured. This system can be used to monitor the temperature or humidity of a particular room or place.
   
