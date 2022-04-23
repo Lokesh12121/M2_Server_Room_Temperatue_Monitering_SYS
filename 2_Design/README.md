@@ -1,4 +1,4 @@
-# Architecture
+# Design
 
   ## 2. User behavior diagram - High Level
   
