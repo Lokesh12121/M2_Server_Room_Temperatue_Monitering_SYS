@@ -9,8 +9,6 @@
 *.o
 *.ko
 *.obj
-*.elf
-*.hex
 
 # Linker output
 *.ilk
