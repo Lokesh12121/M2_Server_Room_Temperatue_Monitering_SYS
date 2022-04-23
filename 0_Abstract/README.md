@@ -29,7 +29,7 @@ In this project, we’ve built a temperature sensor using Atmega328p and the var
 4.  In simulIDE click on mcu and click on load the firmware, and select .hex file
 5.  As u know the circuit only works when it is in closed space, so press all the buttons ON.
 6.  And finally the circuit works, vary the potentiometer to vary the temperature
-7.  The results is visualised in serial monitor via UART communication.
+7.  The results is visualised in serial monitor via UART communication(left click on mcu on simulIDE to open serial moniter).
 
 ## Applications
 1. Server Rooms - the server rooms are closed for safety and security purpose, as it is closed it keeps warm temperature. The temperature is monitered and is controlled via coolers, fans etc, 
