@@ -19,7 +19,7 @@ In this project, we’ve built a temperature sensor using Atmega328p and the var
 -   [LED]() - A light-emitting diode (LED) is a semiconductor light source that emits light when current flows through it
 -   [Button]() - A push-button (also spelled pushbutton) or simply button is a simple switch mechanism to control some aspect of a machine or a process
 -   [Resistor]() - A resistor is a passive two-terminal electrical component that implements electrical resistance as a circuit element
-- [Oscilloscope]() - electronic test instrument that graphically displays varying electrical voltages as a two-dimensional plot of one or more signals as a function of time.
+-   [Oscilloscope]() - electronic test instrument that graphically displays varying electrical voltages as a two-dimensional plot of one or more signals as a function of time.
 
 ## How the project works
 1.  The LM35 sensor used in this circuit can sense a temperature ranging from -55˚ to 150˚C. Since it is not present SimulIDE, we use potentiometer it acts as an temperature sensor which is manually operated.
