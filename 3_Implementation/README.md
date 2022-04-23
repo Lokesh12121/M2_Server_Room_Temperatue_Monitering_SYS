@@ -11,3 +11,9 @@
 | Makefile | Makefile for running chevking and testing
 | proect_main.c | Project main file
 | simulation | Contains all the circuit files and media
+
+## How it works 
+1.  Dowmload the respository to local machine
+2.  In the powershell go to the 3_Implementation directory 
+3.  Type __make all__ in powershelldump
+4.  A __Build__ file is generated (all the .hex and .elf files are generated and stored here ) used for dumping in MCU for simulation
