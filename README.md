@@ -6,7 +6,7 @@ Several consumer devices now involve temperature monitoring. For example, most o
 ## Folder Structure
 | Folder | Discription |
 | :---: | :---: | 
-| 0_Certificates | List of certifications completed
+| 0_Absract | Brief info aout project
 | 1_Requirements	| Documents detailing requirements and research
 | 2_Design	| Documents specifying design details
 | 3_Implementation |	All code, neccesary files and documentation
