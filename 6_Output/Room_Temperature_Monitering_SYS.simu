@@ -28,7 +28,7 @@ Unique  Id: Ground-5:
 Circuit Id: Ground-35
 <item objectName="Ground-5" id="Ground-35" x="-188" boardRot="-1000000" labely="8" boardPos="-1e+06,-1e+06" Show_id="false" rotation="0" labelrot="0" circPos="0,0" valLabRot="0" circRot="0" y="-528" vflip="1" itemtype="Ground" mainComp="false" labelx="-16" valLabelx="0" valLabely="0" hflip="1"/>
 
-Unique  Id: Led-6:  
+Unique  Id: Led-6: 
 Circuit Id: Led-34
 <item objectName="Led-6" Color="0" id="Led-34" x="-216" boardRot="-1000000" labely="-24" MaxCurrent="0.029999999999999999" boardPos="-1e+06,-1e+06" Threshold="2.3999999999999999" Show_id="false" rotation="0" labelrot="0" circPos="0,0" valLabRot="0" circRot="2.4345578764473265e-316" y="-548" Resistance="0.59999999999999998" Grounded="false" vflip="1" itemtype="Led" mainComp="false" labelx="-16" valLabelx="0" valLabely="0" hflip="1"/>
 
