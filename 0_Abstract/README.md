@@ -26,10 +26,11 @@ In this project, we’ve built a temperature sensor using Atmega328p and the var
 2.  The source code this project is available [here](https://github.com/Lokesh12121/M1_Inventary_Managment_System/tree/main/3_Implementation) , after running the code it generates a .hex and .elf file.
 3.  Build the circuit according to the following diagram
 ![Circuit diagram](https://github.com/Lokesh12121/M2_Room_Temperatue_Monitering_SYS/blob/main/0_Abstract/Circuit1.PNG)
-4.  In simulIDE click on mcu and click on load the firmware, and select .hex file
-5.  As u know the circuit only works when it is in closed space, so press all the buttons ON.
-6.  And finally the circuit works, vary the potentiometer to vary the temperature
-7.  The results is visualised in serial monitor via UART communication(left click on mcu on simulIDE to open serial moniter).
+4.  In the circuit door_1, door_2, window_1, window_2 are door sensors altered with push up buttons, make sure to ON all the buttons in order to keep the room closed and device to work.
+5.  In simulIDE click on mcu and click on load the firmware, and select .hex file
+6.  As u know the circuit only works when it is in closed space, so press all the buttons ON.
+7.  And finally the circuit works, vary the potentiometer to vary the temperature
+8.  The results is visualised in serial monitor via UART communication(left click on mcu on simulIDE to open serial moniter).
 
 ## Applications
 1. Server Rooms - the server rooms are closed for safety and security purpose, as it is closed it keeps warm temperature. The temperature is monitered and is controlled via coolers, fans etc, 
